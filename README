@@ -1,5 +1,13 @@
+/*Norwegian*/
 Hei, du må legge inn ditt eget
 brukernavn og passord på scrapyard.properties filen.
 Resterende info pleier alltid å være slik det står.
 Hvis du ikke har byttet navnet på databasen burde navnet angitt
 fungere uten noe problem.
+
+/*English*/
+Hello, you have to add your own
+username and password on the scrapyard.properties file.
+The remaining info is usually the same as it already says on the file.
+If you havent changed the name on the database it should be the one
+inputted. 
